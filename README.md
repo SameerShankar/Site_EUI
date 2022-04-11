@@ -1,5 +1,7 @@
 # STAT 447B Project - Predicting Site EUI
+
 Kaggle Competition - Predicting Site EUI based on Climatic and Building Characteristics
+
 **Contributors**: ***Anjali Chauhan, Idris Hedayat, Sameer Shankar, Sumit Meghlani***
 
 ## Introduction
