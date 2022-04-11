@@ -1,7 +1,5 @@
-# STAT 447B Project - Predicting Site EUI
-
-Kaggle Competition - Predicting Site EUI based on Climatic and Building Characteristics
-
+# STAT 447B Group Project
+## Predicting Building Energy Consumption
 **Contributors**: ***Anjali Chauhan, Idris Hedayat, Sameer Shankar, Sumit Meghlani***
 
 ## Introduction
