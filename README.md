@@ -88,17 +88,3 @@ Analyze differences in building energy efficiency, creating models to predict bu
 **Evaluation Metric**: 
 
 The evaluation metric for this competition is Root Mean Squared Error (RMSE). The RMSE is commonly used measure of the differences between predicted values provided by a model and the actual observed values.
-
-## Exploratory Data Analysis (EDA)
-
-## Feature Engineering
-
-## Model Training
-
-## Model Evaluation
-
-## Hyperparameter Tuning
-
-## Prediction
-
-## Conclusion
